@@ -1,5 +1,5 @@
 <?php
-include "../pengunjung.php";
+
 $a = rand(130,255);
 $b = rand(130,255);
 $c = rand(130,255);
@@ -8,8 +8,8 @@ $mina = 255-$a;
 $minb = 255-$b;
 $minc = 255-$c;
 
-$konek=mysqli_connect("localhost","tagarakc_haizim","Gerak18");
-mysqli_select_db($konek,"tagarakc_eo");
+$konek=mysqli_connect([HOST],[USER],[PASS]);
+mysqli_select_db($konek,[DB]);
 
 $nama = mysqli_escape_string($konek,$_POST['nama']);
 $asal = mysqli_escape_string($konek,$_POST['asal']);

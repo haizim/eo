@@ -1,5 +1,5 @@
 <?php
-include "../pengunjung.php";
+
 include "mpdf/index.php";
 //use Mpdf\Mpdf;
 
@@ -13,8 +13,8 @@ $minc = 255-$c;
 
 $mpdf = new \Mpdf\Mpdf(['mode' => 'utf-8', 'format' => 'A4-L']);
 
-$konek=mysqli_connect("localhost","tagarakc_haizim","Gerak18");
-mysqli_select_db($konek,"tagarakc_eo");
+$konek=mysqli_connect([HOST],[USER],[PASS]);
+mysqli_select_db($konek,[DB]);
 
 $q = "SELECT * FROM `peserta`";
 $ambil = mysqli_query($konek, $q);

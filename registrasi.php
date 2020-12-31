@@ -1,5 +1,4 @@
 <?php
-include "../pengunjung.php";
 $a = rand(130,255);
 $b = rand(130,255);
 $c = rand(130,255);

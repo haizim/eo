@@ -1,5 +1,4 @@
 <?php
-include "../pengunjung.php";
 $a = rand(130,255);
 $b = rand(130,255);
 $c = rand(130,255);
@@ -9,8 +8,8 @@ $minb = 255-$b;
 $minc = 255-$c;
 
 
-$konek=mysqli_connect("localhost","tagarakc_haizim","Gerak18");
-mysqli_select_db($konek,"tagarakc_eo");
+$konek=mysqli_connect([HOST],[USER],[PASS]);
+mysqli_select_db($konek,[DB]);
 
 $q = "SELECT * FROM `peserta` order by no desc limit 10";
 $ambil = mysqli_query($konek, $q);

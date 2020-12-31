@@ -1,5 +1,5 @@
 <?php
-include "../pengunjung.php";
+
 include "mpdf/index.php";
 //use Mpdf\Mpdf;
 
