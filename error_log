@@ -1,0 +1,35 @@
+[09-Oct-2020 15:14:26 UTC] PHP Warning:  file_get_contents(mpdfstyletables.css): failed to open stream: No such file or directory in /home/tagarakc/haizim.one/iseng/eo/cetak-peserta.php on line 88
+[09-Oct-2020 15:14:26 UTC] PHP Notice:  Undefined variable: nama_file in /home/tagarakc/haizim.one/iseng/eo/cetak-peserta.php on line 93
+[09-Oct-2020 15:14:26 UTC] PHP Notice:  Undefined variable: data in /home/tagarakc/haizim.one/iseng/eo/cetak-peserta.php on line 93
+[09-Oct-2020 15:14:26 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/tagarakc/haizim.one/iseng/eo/cetak-peserta.php on line 93
+[09-Oct-2020 15:14:59 UTC] PHP Warning:  file_get_contents(mpdfstyletables.css): failed to open stream: No such file or directory in /home/tagarakc/haizim.one/iseng/eo/cetak.php on line 71
+[09-Oct-2020 15:14:59 UTC] PHP Notice:  Undefined variable: data in /home/tagarakc/haizim.one/iseng/eo/cetak.php on line 76
+[09-Oct-2020 15:14:59 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/tagarakc/haizim.one/iseng/eo/cetak.php on line 76
+[11-Oct-2020 05:05:42 UTC] PHP Warning:  file_get_contents(mpdfstyletables.css): failed to open stream: No such file or directory in /home/tagarakc/haizim.one/iseng/eo/cetak-presensi.php on line 87
+[11-Oct-2020 05:05:42 UTC] PHP Notice:  Undefined variable: nama_file in /home/tagarakc/haizim.one/iseng/eo/cetak-presensi.php on line 92
+[11-Oct-2020 05:05:42 UTC] PHP Notice:  Undefined variable: data in /home/tagarakc/haizim.one/iseng/eo/cetak-presensi.php on line 92
+[11-Oct-2020 05:05:42 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/tagarakc/haizim.one/iseng/eo/cetak-presensi.php on line 92
+[15-Nov-2020 21:40:52 Asia/Jakarta] PHP Warning:  file_get_contents(mpdfstyletables.css): failed to open stream: No such file or directory in /home/tagarakc/haizim.one/iseng/eo/cetak-presensi.php on line 87
+[15-Nov-2020 21:40:52 Asia/Jakarta] PHP Notice:  Undefined variable: nama_file in /home/tagarakc/haizim.one/iseng/eo/cetak-presensi.php on line 92
+[15-Nov-2020 21:40:52 Asia/Jakarta] PHP Notice:  Undefined variable: data in /home/tagarakc/haizim.one/iseng/eo/cetak-presensi.php on line 92
+[15-Nov-2020 21:40:52 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/tagarakc/haizim.one/iseng/eo/cetak-presensi.php on line 92
+[22-Nov-2020 22:25:37 Asia/Jakarta] PHP Warning:  file_get_contents(mpdfstyletables.css): failed to open stream: No such file or directory in /home/tagarakc/haizim.one/iseng/eo/cetak-presensi.php on line 87
+[22-Nov-2020 22:25:37 Asia/Jakarta] PHP Notice:  Undefined variable: nama_file in /home/tagarakc/haizim.one/iseng/eo/cetak-presensi.php on line 92
+[22-Nov-2020 22:25:37 Asia/Jakarta] PHP Notice:  Undefined variable: data in /home/tagarakc/haizim.one/iseng/eo/cetak-presensi.php on line 92
+[22-Nov-2020 22:25:37 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/tagarakc/haizim.one/iseng/eo/cetak-presensi.php on line 92
+[24-Nov-2020 08:10:24 Asia/Jakarta] PHP Warning:  file_get_contents(mpdfstyletables.css): failed to open stream: No such file or directory in /home/tagarakc/haizim.one/iseng/eo/cetak-peserta.php on line 88
+[24-Nov-2020 08:10:24 Asia/Jakarta] PHP Notice:  Undefined variable: nama_file in /home/tagarakc/haizim.one/iseng/eo/cetak-peserta.php on line 93
+[24-Nov-2020 08:10:24 Asia/Jakarta] PHP Notice:  Undefined variable: data in /home/tagarakc/haizim.one/iseng/eo/cetak-peserta.php on line 93
+[24-Nov-2020 08:10:24 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/tagarakc/haizim.one/iseng/eo/cetak-peserta.php on line 93
+[26-Dec-2020 08:26:33 Asia/Jakarta] PHP Warning:  file_get_contents(mpdfstyletables.css): failed to open stream: No such file or directory in /home/tagarakc/haizim.one/iseng/eo/cetak-presensi.php on line 87
+[26-Dec-2020 08:26:33 Asia/Jakarta] PHP Warning:  file_get_contents(mpdfstyletables.css): failed to open stream: No such file or directory in /home/tagarakc/haizim.one/iseng/eo/cetak-peserta.php on line 88
+[26-Dec-2020 08:26:33 Asia/Jakarta] PHP Notice:  Undefined variable: nama_file in /home/tagarakc/haizim.one/iseng/eo/cetak-presensi.php on line 92
+[26-Dec-2020 08:26:33 Asia/Jakarta] PHP Notice:  Undefined variable: data in /home/tagarakc/haizim.one/iseng/eo/cetak-presensi.php on line 92
+[26-Dec-2020 08:26:33 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/tagarakc/haizim.one/iseng/eo/cetak-presensi.php on line 92
+[26-Dec-2020 08:26:33 Asia/Jakarta] PHP Notice:  Undefined variable: nama_file in /home/tagarakc/haizim.one/iseng/eo/cetak-peserta.php on line 93
+[26-Dec-2020 08:26:33 Asia/Jakarta] PHP Notice:  Undefined variable: data in /home/tagarakc/haizim.one/iseng/eo/cetak-peserta.php on line 93
+[26-Dec-2020 08:26:33 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/tagarakc/haizim.one/iseng/eo/cetak-peserta.php on line 93
+[28-Dec-2020 22:53:39 Asia/Jakarta] PHP Warning:  file_get_contents(mpdfstyletables.css): failed to open stream: No such file or directory in /home/tagarakc/haizim.one/iseng/eo/cetak-peserta.php on line 88
+[28-Dec-2020 22:53:39 Asia/Jakarta] PHP Notice:  Undefined variable: nama_file in /home/tagarakc/haizim.one/iseng/eo/cetak-peserta.php on line 93
+[28-Dec-2020 22:53:39 Asia/Jakarta] PHP Notice:  Undefined variable: data in /home/tagarakc/haizim.one/iseng/eo/cetak-peserta.php on line 93
+[28-Dec-2020 22:53:39 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/tagarakc/haizim.one/iseng/eo/cetak-peserta.php on line 93
